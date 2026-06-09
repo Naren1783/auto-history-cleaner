@@ -1,0 +1,6 @@
+interface RepositoryData {
+  id: number;
+  title: string;
+  isPublic: boolean;
+  tags: string[];
+}
